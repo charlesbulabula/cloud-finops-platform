@@ -202,4 +202,4 @@ def ingest(config: IngestionConfig, session: boto3.Session | None = None) -> lis
 
     return records
 
-# _r 20260612144709-6d069bc3
+# _r 20260613095307-44d1e458
