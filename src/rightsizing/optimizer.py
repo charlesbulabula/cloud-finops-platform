@@ -260,4 +260,4 @@ def analyze_rightsizing(
     logger.info("Generated %d rightsizing recommendations", len(recommendations))
     return recommendations
 
-# _r 20260703102914-76cd08aa
+# _r 20260706152004-5cb14eed
